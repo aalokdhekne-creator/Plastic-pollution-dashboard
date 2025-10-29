@@ -1,0 +1,5 @@
+# To run code,follwoing librarys arerequired.
+streamlit
+pandas
+numpy
+plotly
